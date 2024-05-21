@@ -1,3 +1,4 @@
+# projeto criado e alterado por Marcos M Marchetti
 import fitz
 import os
 import argparse
